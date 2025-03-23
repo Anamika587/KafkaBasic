@@ -1,7 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
 # Kafka Basic Project
 
 ## Overview
